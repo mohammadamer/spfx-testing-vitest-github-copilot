@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "spfx-testing-vitest-github-copilot-client-side-solution",
+    "id": "c0bec4ae-b5b3-463c-a24a-eb4bc7025bf0",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.21.1"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "spfx-testing-vitest-github-copilot description"
+      },
+      "longDescription": {
+        "default": "spfx-testing-vitest-github-copilot description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "spfx-testing-vitest-github-copilot Feature",
+        "description": "The feature that activates elements of the spfx-testing-vitest-github-copilot solution.",
+        "id": "9c4010ed-c25b-49e5-ac88-520372045a8f",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/spfx-testing-vitest-github-copilot.sppkg"
+  }
+}
